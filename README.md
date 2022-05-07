@@ -1,0 +1,2 @@
+# Tracking-of-Data-for-auditing
+The objective of ‘tracking data for auditing’ is to mainly concentrate on how we can keep a track of all the financial details of the company, which includes the income of the company, employee’s salary and various products that are bought and products which are sold. So, all these transaction details will be stored in the database. These details can be retrieved during the time of auditing which makes the work easier for the auditors and the company.  for the front end i have used PyQt5 and for the backend i have used sqlite .
